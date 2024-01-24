@@ -1,6 +1,21 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center">Kaustav Roy</p>
+logo: /assets/img/lvector.png
+
+
+description:
+  <p align="center">
+  <a href="">Resume</a> |
+  <a href="https://www.linkedin.com/in/kaustav-roy-b067421a0/">LinkedIn</a> |
+  <a href="https://github.com/KaustavRoy10">GitHub</a>
+  
+  <br>   
+  I'm working on Graph Data Science, Robotic Process Automation & Data Analysis 
+  Handing SQL Data to graph Databases ontology and performing data analysis
+  Working in software development domain for 2 years.
+  <br>
+  </p>
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
